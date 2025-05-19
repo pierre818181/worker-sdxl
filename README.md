@@ -10,7 +10,7 @@ Run [Stable Diffusion XL](https://huggingface.co/stabilityai/stable-diffusion-xl
 
 ---
 
-## Usage
+##
 
 The worker accepts the following input parameters:
 
